@@ -33,7 +33,8 @@ It takes the sample from each channel per revolution and rotates at the rate of 
 
 ### Tabulation
 
-<img width="672" height="448" alt="image" src="https://github.com/user-attachments/assets/05600b28-ba54-4cd4-9ff4-f088865e85ae" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c8f5d4ed-c361-4ebc-9573-07dc95337c03" />
+
 
 ### Result
 Thus,time division multiplexing is done experimentally and output is verified
